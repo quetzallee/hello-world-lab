@@ -5,8 +5,8 @@
 #include <stdio.h>
 
 int main(void) {
-    print("Hello World\n");
-    print("Hello World 2\n");
-    print("Hello World 3\n");
+    printf("Hello World\n");
+    printf("Hello World 2\n");
+    printf("Hello World 3\n");
     return 0;
 }
